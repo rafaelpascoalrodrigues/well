@@ -14,7 +14,7 @@ Many Kindred fear crossing the practitioners of Thaumaturgy. It is a very potent
 [**The Path of Blood**](#the-path-of-blood) <br>
 ---
 
-[• A Taste for Blood](#•-a-taste-for-blood) <br>
+[• A Taste for Blood](#•a-taste-for-blood) <br>
 [•• Blood Rage](#••-blood-rage) <br>
 [••• Blood of Potency](#•••-blood-of-potency) <br>
 [•••• Theft of Vitae](#••••-theft-of-vitae) <br>
@@ -35,7 +35,7 @@ Many Kindred fear crossing the practitioners of Thaumaturgy. It is a very potent
 [•• Speed the Season's Passing](#••-speed-the-seasons-passing) <br>
 [••• Dance of Vines](#•••-dance-of-vines) <br>
 [•••• Verdant Haven](#••••-verdant-haven) <br>
-[••••• Awaken the Forest Giants](#•••••-awaken-the-forest-giants) <br>
+[••••• Awaken the Forest Giants](#awaken-the-forest-giants) <br>
 
 [**Hands of Destruction**](#hands-of-destruction) <br>
 ---
