@@ -14,13 +14,14 @@ Many Kindred fear crossing the practitioners of Thaumaturgy. It is a very potent
 [**The Path of Blood**](#the-path-of-blood) <br>
 ---
 
-[• A Taste for Blood](#•a-taste-for-blood) <br>
-[•• Blood Rage](#••-blood-rage) <br>
-[••• Blood of Potency](#•••-blood-of-potency) <br>
-[•••• Theft of Vitae](#••••-theft-of-vitae) <br>
-[••••• Cauldron of Blood](#•••••-cauldron-of-blood) <br>
-[**Elemental Mastery**](#elemental-mastery) <br>
+[• A Taste for Blood](#-a-taste-for-blood) <br>
+[•• Blood Rage](#-blood-rage) <br>
+[••• Blood of Potency](#-blood-of-potency) <br>
+[•••• Theft of Vitae](#-theft-of-vitae) <br>
+[••••• Cauldron of Blood](#-cauldron-of-blood) <br>
 ---
+[**Elemental Mastery**](#elemental-mastery) <br>
+
 
 [• Elemental Strength](#•-elemental-strength) <br>
 [•• Wooden Tongues](#••-wooden-tongues) <br>
